@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from skimage.color import rgb2gray
 
-img_loc = r"02_math,graph_basic/lenna.png"
+img_loc = r"StaticStorage/lenna.png"
 
 
 class ImageBasic:

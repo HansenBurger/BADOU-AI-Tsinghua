@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-img_loc = r"02_math,graph_basic/lenna.png"
+img_loc = r"StaticStorage/lenna.png"
 
 
 class ImageBasic:
